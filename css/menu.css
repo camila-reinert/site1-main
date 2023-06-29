@@ -20,7 +20,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    color: #fff;
+    color: rgb(54, 52, 52);
     font-family: 'Gabriela', serif;
     font-size: 25px;
 }
@@ -110,7 +110,7 @@ ul li a
 }
 ul li a:hover
 {
-    background: #f6f6f6;
-    color: #fff;
+    background: #f8f3f3;
+    color: rgb(57, 55, 55);
     transition: 0s;
 }
